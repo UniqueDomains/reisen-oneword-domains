@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .reisen one-word domains from Uniq
 
 **Public extract:** 9,776 rows · **Live catalog:** 9,776 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/reisen`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | ace.reisen      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com                                    |
 | free.reisen     | available | $24.99    | $26.99        | 88             | 59     | 4      | name.com                                    |
 | usa.reisen      | resell    | —         | —             | 88             | 44     | 3      | Dynadot Inc                                 |
-| alpha.reisen    | premium   | $25       | $25           | 90             | 54     | 5      | name.com                                    |
+| alpha.reisen    | premium   | $25       | $25           | 90             | 53     | 5      | name.com                                    |
 | data.reisen     | available | $28.98    | —             | 70             | 56     | 4      | namecheap                                   |
 | genesis.reisen  | resell    | —         | —             | 68             | 40     | 7      | Sav.com, LLC                                |
 | fast.reisen     | premium   | $25       | $25           | 82             | 53     | 4      | name.com                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
