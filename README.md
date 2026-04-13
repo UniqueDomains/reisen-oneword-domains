@@ -67,22 +67,22 @@ print(df.head())
 | tesla.reisen    | available | $24.99    | —             | 86             | 61     | 5      | name.com                                    |
 | car.reisen      | resell    | —         | —             | 94             | 46     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 | ace.reisen      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com                                    |
-| free.reisen     | available | $24.99    | $26.99        | 88             | 59     | 4      | name.com                                    |
+| free.reisen     | available | $24.99    | $26.99        | 88             | 57     | 4      | name.com                                    |
 | usa.reisen      | resell    | —         | —             | 88             | 44     | 3      | Dynadot Inc                                 |
 | alpha.reisen    | premium   | $25       | $25           | 90             | 53     | 5      | name.com                                    |
 | data.reisen     | available | $28.98    | —             | 70             | 56     | 4      | namecheap                                   |
 | genesis.reisen  | resell    | —         | —             | 68             | 40     | 7      | Sav.com, LLC                                |
-| fast.reisen     | premium   | $25       | $25           | 82             | 53     | 4      | name.com                                    |
+| art.reisen      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
 | zero.reisen     | available | $24.99    | $26.99        | 112            | 53     | 4      | name.com                                    |
 | weed.reisen     | resell    | —         | —             | 58             | 37     | 4      | IONOS SE                                    |
-| art.reisen      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
+| fast.reisen     | premium   | $25       | $25           | 82             | 52     | 4      | name.com                                    |
 | true.reisen     | available | $24.99    | $26.99        | 86             | 52     | 4      | name.com                                    |
 | beer.reisen     | resell    | —         | —             | 74             | 35     | 4      | GoDaddy.com, LLC                            |
 | abc.reisen      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap                                   |
 | game.reisen     | available | $24.99    | $26.99        | 120            | 50     | 4      | name.com                                    |
 | vacation.reisen | resell    | —         | —             | 70             | 27     | 8      | Dynadot Inc                                 |
-| digital.reisen  | premium   | $500      | $500          | 100            | 50     | 7      | name.com                                    |
-| clear.reisen    | available | $24.99    | $26.99        | 90             | 49     | 5      | name.com                                    |
+| life.reisen     | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                                   |
+| simple.reisen   | available | $24.99    | $26.99        | 128            | 49     | 6      | name.com                                    |
 | regional.reisen | resell    | —         | —             | 82             | 17     | 8      | IONOS SE                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
