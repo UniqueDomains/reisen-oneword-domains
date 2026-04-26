@@ -1,22 +1,22 @@
-# Available .REISEN One-Word Domains (9,776)
+# Available .REISEN One-Word Domains (12,299)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C776%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C776%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C299%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .reisen one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .reisen one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,299 domains** on the canonical page below.
 
-**Public extract:** 9,776 rows · **Live catalog:** 9,776 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,299 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/reisen`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .REISEN one-word domai
 
 ### Files
 
-- `reisen.csv` — public CSV extract (9,776 rows)
-- `reisen.json` — public JSON extract (9,776 rows)
+- `reisen.csv` — public CSV extract (1,000 rows)
+- `reisen.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| tesla.reisen    | available | $24.99    | —             | 86             | 61     | 5      | name.com                                    |
-| car.reisen      | resell    | —         | —             | 94             | 46     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| ace.reisen      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com                                    |
-| free.reisen     | available | $24.99    | $26.99        | 88             | 57     | 4      | name.com                                    |
-| usa.reisen      | resell    | —         | —             | 88             | 44     | 3      | Dynadot Inc                                 |
-| alpha.reisen    | premium   | $25       | $25           | 90             | 53     | 5      | name.com                                    |
-| data.reisen     | available | $28.98    | —             | 70             | 56     | 4      | namecheap                                   |
-| genesis.reisen  | resell    | —         | —             | 68             | 40     | 7      | Sav.com, LLC                                |
-| art.reisen      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
-| zero.reisen     | available | $24.99    | $26.99        | 112            | 53     | 4      | name.com                                    |
-| weed.reisen     | resell    | —         | —             | 58             | 37     | 4      | IONOS SE                                    |
-| fast.reisen     | premium   | $25       | $25           | 82             | 52     | 4      | name.com                                    |
-| true.reisen     | available | $24.99    | $26.99        | 86             | 52     | 4      | name.com                                    |
-| beer.reisen     | resell    | —         | —             | 74             | 35     | 4      | GoDaddy.com, LLC                            |
-| abc.reisen      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap                                   |
-| game.reisen     | available | $24.99    | $26.99        | 120            | 50     | 4      | name.com                                    |
-| vacation.reisen | resell    | —         | —             | 70             | 27     | 8      | Dynadot Inc                                 |
-| life.reisen     | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                                   |
-| simple.reisen   | available | $24.99    | $26.99        | 128            | 49     | 6      | name.com                                    |
-| regional.reisen | resell    | —         | —             | 82             | 17     | 8      | IONOS SE                                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.reisen    | available | $24.99    | —             | 56             | 50     | 6      | name.com  |
+| jobs.reisen      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
+| Ryan.reisen      | available | $28.98    | —             | 60             | 44     | 4      | namecheap |
+| events.reisen    | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
+| coins.reisen     | available | $24.99    | —             | 56             | 41     | 5      | name.com  |
+| tickets.reisen   | premium   | $242      | $242          | 64             | 34     | 7      | namesilo  |
+| shortcuts.reisen | available | $24.99    | —             | 48             | 41     | 10     | name.com  |
+| etc.reisen       | premium   | $25       | —             | 58             | 34     | 3      | name.com  |
+| whynot.reisen    | available | $24.99    | —             | 74             | 39     | 7      | name.com  |
+| SanDiego.reisen  | premium   | $23.60    | $23.60        | 74             | 29     | 9      | namesilo  |
+| aliens.reisen    | available | $3.99     | $20.99        | 56             | 35     | 6      | namesilo  |
+| Jim.reisen       | premium   | $28       | $28           | 78             | 28     | 3      | namecheap |
+| payments.reisen  | available | $24.99    | —             | 58             | 33     | 8      | name.com  |
+| photos.reisen    | premium   | $250      | —             | 54             | 28     | 6      | name.com  |
+| teams.reisen     | available | $24.99    | —             | 62             | 32     | 5      | name.com  |
+| has.reisen       | premium   | $25       | —             | 60             | 26     | 3      | name.com  |
+| partners.reisen  | available | $24.99    | —             | 61             | 32     | 8      | name.com  |
+| boats.reisen     | premium   | $250      | —             | 52             | 24     | 5      | name.com  |
+| letsgo.reisen    | available | $24.99    | —             | 57             | 31     | 7      | name.com  |
+| flights.reisen   | premium   | $242      | $242          | 61             | 22     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,776-row public sample | 9,776 live domains                               |
+| 1,000-row public sample | 12,299 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
