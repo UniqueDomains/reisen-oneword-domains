@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .reisen one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,753 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,753 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,753 domains · **Median ask:** $24.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/reisen`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| girls.reisen     | available | $24.99    | —             | 83             | 23     | 5      | name.com  |
+| finals.reisen    | available | $3.99     | $20.99        | 80             | 7      | 6      | namesilo  |
+| Apples.reisen    | available | $28.98    | —             | 90             | 16     | 6      | namecheap |
+| useit.reisen     | available | $24.99    | —             | 94             | 7      | 6      | name.com  |
+| playin.reisen    | available | $24.99    | —             | 80             | 10     | 7      | name.com  |
+| hangon.reisen    | available | $24.99    | —             | 82             | 6      | 7      | name.com  |
 | coins.reisen     | available | $24.99    | —             | 56             | 41     | 5      | name.com  |
 | jobs.reisen      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
 | shortcuts.reisen | available | $24.99    | —             | 48             | 41     | 10     | name.com  |
@@ -78,12 +84,6 @@ print(df.head())
 | Jim.reisen       | premium   | $28       | $28           | 78             | 28     | 3      | namecheap |
 | partners.reisen  | available | $24.99    | —             | 61             | 32     | 8      | name.com  |
 | photos.reisen    | premium   | $250      | —             | 54             | 28     | 6      | name.com  |
-| maps.reisen      | available | $24.99    | —             | 56             | 31     | 4      | name.com  |
-| boats.reisen     | premium   | $250      | —             | 52             | 24     | 5      | name.com  |
-| slots.reisen     | available | $3.99     | $20.99        | 49             | 31     | 5      | namesilo  |
-| flights.reisen   | premium   | $242      | $242          | 61             | 22     | 7      | namesilo  |
-| heroes.reisen    | available | $24.99    | —             | 68             | 29     | 6      | name.com  |
-| VHS.reisen       | premium   | $28       | $28           | 71             | 20     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,753 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,753 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .reisen domains. That makes it niche by design: the extension signals travel intent, while the word itself does most of the branding work. Some names are broad and descriptive, such as homes.reisen or WiFi.reisen. Others are shorter and more brand-led, such as Trex.reisen or barup.reisen. When comparing these domains, focus on whether the keyword feels natural with a travel-specific ending, whether it is easy to say and remember, and whether the asking price is justified by clarity, category fit, or resale flexibility within a narrower extension.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Short words tend to be easier to recall and repeat
+- Exact-match terms can suit travel operators best
+- Check if the word pairs naturally with .reisen
+- Review ask price against niche demand and renewal
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
