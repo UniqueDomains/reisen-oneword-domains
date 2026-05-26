@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reisen one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $24.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/reisen`  
 **Best for:** founders, investors, studios
 
@@ -70,11 +70,11 @@ print(df.head())
 | useit.reisen     | available | $24.99    | —             | 94             | 7      | 6      | name.com  |
 | playin.reisen    | available | $24.99    | —             | 80             | 10     | 7      | name.com  |
 | hangon.reisen    | available | $24.99    | —             | 82             | 6      | 7      | name.com  |
-| coins.reisen     | available | $24.99    | —             | 56             | 41     | 5      | name.com  |
+| whynot.reisen    | available | $24.99    | —             | 74             | 44     | 7      | name.com  |
 | jobs.reisen      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.reisen | available | $24.99    | —             | 48             | 41     | 10     | name.com  |
+| coins.reisen     | available | $24.99    | —             | 56             | 41     | 5      | name.com  |
 | events.reisen    | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| whynot.reisen    | available | $24.99    | —             | 74             | 39     | 7      | name.com  |
+| shortcuts.reisen | available | $24.99    | —             | 48             | 41     | 10     | name.com  |
 | tickets.reisen   | premium   | $242      | $242          | 64             | 34     | 7      | namesilo  |
 | aliens.reisen    | available | $3.99     | $20.99        | 56             | 35     | 6      | namesilo  |
 | etc.reisen       | premium   | $25       | —             | 58             | 34     | 3      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
