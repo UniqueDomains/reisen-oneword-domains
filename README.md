@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .reisen one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,755 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $24.04 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $14.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/reisen`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/reisen`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .REISEN one-word domai
 
 ### Files
 
-- `reisen.csv` — public CSV extract (1,000 rows)
-- `reisen.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `reisen.csv`, public CSV extract (1,000 rows)
+- `reisen.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| girls.reisen     | available | $24.99    | —             | 83             | 23     | 5      | name.com  |
-| finals.reisen    | available | $3.99     | $20.99        | 80             | 7      | 6      | namesilo  |
-| Apples.reisen    | available | $28.98    | —             | 90             | 16     | 6      | namecheap |
-| useit.reisen     | available | $24.99    | —             | 94             | 7      | 6      | name.com  |
-| playin.reisen    | available | $24.99    | —             | 80             | 10     | 7      | name.com  |
-| hangon.reisen    | available | $24.99    | —             | 82             | 6      | 7      | name.com  |
-| whynot.reisen    | available | $24.99    | —             | 74             | 44     | 7      | name.com  |
-| jobs.reisen      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| coins.reisen     | available | $24.99    | —             | 56             | 41     | 5      | name.com  |
-| events.reisen    | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| shortcuts.reisen | available | $24.99    | —             | 48             | 41     | 10     | name.com  |
-| tickets.reisen   | premium   | $242      | $242          | 64             | 34     | 7      | namesilo  |
-| aliens.reisen    | available | $3.99     | $20.99        | 56             | 35     | 6      | namesilo  |
-| etc.reisen       | premium   | $25       | —             | 58             | 34     | 3      | name.com  |
-| payments.reisen  | available | $24.99    | —             | 58             | 33     | 8      | name.com  |
-| SanDiego.reisen  | premium   | $23.60    | $23.60        | 74             | 29     | 9      | namesilo  |
-| teams.reisen     | available | $24.99    | —             | 62             | 32     | 5      | name.com  |
-| Jim.reisen       | premium   | $28       | $28           | 78             | 28     | 3      | namecheap |
-| partners.reisen  | available | $24.99    | —             | 61             | 32     | 8      | name.com  |
-| photos.reisen    | premium   | $250      | —             | 54             | 28     | 6      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Eid.reisen  | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
+| usa.reisen  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc |
+| ace.reisen  | premium   | $41.25    | $41.25        | high           | medium | 3      | name.com    |
+| suv.reisen  | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
+| art.reisen  | premium   | $520      | $520          | high           | medium | 3      | namecheap   |
+| wiz.reisen  | available | $24.99    | $26.99        | high           | low    | 3      | name.com    |
+| bad.reisen  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
+| xxv.reisen  | available | $24.99    | $26.99        | medium         | low    | 3      | name.com    |
+| bob.reisen  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
+| atop.reisen | available | $3.99     | $20.99        | medium         | low    | 4      | namesilo    |
+| btw.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| camo.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| buy.reisen  | premium   | $82.50    | —             | high           | medium | 3      | name.com    |
+| cent.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| cap.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| chip.reisen | available | $24.99    | $26.99        | high           | low    | 4      | name.com    |
+| dad.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| cyan.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| had.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| diva.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .reisen domains. That makes it niche by design: the extension signals travel intent, while the word itself does most of the branding work. Some names are broad and descriptive, such as homes.reisen or WiFi.reisen. Others are shorter and more brand-led, such as Trex.reisen or barup.reisen. When comparing these domains, focus on whether the keyword feels natural with a travel-specific ending, whether it is easy to say and remember, and whether the asking price is justified by clarity, category fit, or resale flexibility within a narrower extension.
+This is a curated set of one-word .reisen domain names, spanning everyday phrases like getmarried.reisen and furnishings.reisen to niche picks like coffeeberry.reisen and cuddleup.reisen. With 12,755 domains available across this TLD and a median ask near $14, the selection offers a mix of short, single-word names alongside longer compound picks. When comparing these domains, weigh clarity of the word combination, memorability, and total cost including renewal against how well the name fits your intended use.
 
-- Short words tend to be easier to recall and repeat
-- Exact-match terms can suit travel operators best
-- Check if the word pairs naturally with .reisen
-- Review ask price against niche demand and renewal
+- 12,755 one-word .reisen domains, updated daily
+- Median ask near $14 across this selection
+- Mix of single-word and compound names (e.g., girls, furnishings)
+- Evaluate brandability, renewal cost, and clarity before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
