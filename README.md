@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .reisen one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,755 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $14.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,755 domains · **Median ask:** $13.46 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/reisen`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | atop.reisen | available | $3.99     | $20.99        | medium         | low    | 4      | namesilo    |
 | btw.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
 | camo.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
-| buy.reisen  | premium   | $82.50    | —             | high           | medium | 3      | name.com    |
+| buy.reisen  | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo    |
 | cent.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
 | cap.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
 | chip.reisen | available | $24.99    | $26.99        | high           | low    | 4      | name.com    |
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,755 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
