@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .reisen one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,889 domains · **Median ask:** $10.95 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/reisen`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| explore.reisen | available | $3.99     | $20.99        | high           | medium | 7      | namesilo    |
-| just.reisen    | premium   | $25       | —             | high           | medium | 4      | name.com    |
-| bad.reisen     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
-| room.reisen    | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
-| time.reisen    | available | $3.99     | $20.99        | high           | medium | 4      | namesilo    |
-| Eid.reisen     | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
-| usa.reisen     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc |
-| ace.reisen     | premium   | $41.25    | $41.25        | high           | medium | 3      | name.com    |
-| suv.reisen     | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
-| art.reisen     | premium   | $520      | $520          | high           | medium | 3      | namecheap   |
-| wiz.reisen     | available | $24.99    | $26.99        | high           | low    | 3      | name.com    |
-| xxv.reisen     | available | $24.99    | $26.99        | medium         | low    | 3      | name.com    |
-| bob.reisen     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
-| atop.reisen    | available | $3.99     | $20.99        | medium         | low    | 4      | namesilo    |
-| btw.reisen     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
-| camo.reisen    | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
-| buy.reisen     | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo    |
-| cent.reisen    | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
-| cap.reisen     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
-| chip.reisen    | available | $24.99    | $26.99        | high           | low    | 4      | name.com    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Eid.reisen  | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
+| usa.reisen  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc |
+| ace.reisen  | premium   | $41.25    | $41.25        | high           | medium | 3      | name.com    |
+| suv.reisen  | available | $3.99     | $20.99        | high           | low    | 3      | namesilo    |
+| art.reisen  | premium   | $520      | $520          | high           | medium | 3      | namecheap   |
+| wiz.reisen  | available | $24.99    | $26.99        | high           | low    | 3      | name.com    |
+| bad.reisen  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
+| xxv.reisen  | available | $24.99    | $26.99        | medium         | low    | 3      | name.com    |
+| bob.reisen  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo    |
+| atop.reisen | available | $3.99     | $20.99        | medium         | low    | 4      | namesilo    |
+| btw.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| camo.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| buy.reisen  | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo    |
+| cent.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| cap.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| chip.reisen | available | $24.99    | $26.99        | high           | low    | 4      | name.com    |
+| dad.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| cyan.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
+| had.reisen  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo    |
+| diva.reisen | available | $3.99     | $20.99        | high           | low    | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
