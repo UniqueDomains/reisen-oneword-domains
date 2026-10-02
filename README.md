@@ -1,10 +1,10 @@
-# Available .REISEN One-Word Domains (31,792)
+# Available .REISEN One-Word Domains (33,357)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C792%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C357%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .reisen one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,792 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,357 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,792 domains · **Median ask:** $12.06 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 33,357 domains · **Median ask:** $12.21 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/reisen`
 **Best for:** founders, investors, studios
 
@@ -72,18 +72,18 @@ print(df.head())
 | bio.reisen | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo   |
 | bun.reisen | available | $3.99     | $20.99        | high           | low    | 3      | namesilo   |
 | cet.reisen | premium   | $23.60    | $23.60        | medium         | low    | 3      | namesilo   |
-| ecg.reisen | available | $3.99     | $20.99        | high           | low    | 3      | namesilo   |
+| ctv.reisen | available | $21.98    | $28.98        | high           | low    | 3      | namecheap  |
 | cfo.reisen | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo   |
-| eec.reisen | available | $16.76    | $16.76        | high           | low    | 3      | spaceship  |
+| dum.reisen | available | $3.99     | $20.99        | high           | low    | 3      | namesilo   |
 | cod.reisen | premium   | $26       | $26           | high           | low    | 3      | namecheap  |
-| erp.reisen | available | $21.98    | $28.98        | high           | medium | 3      | namecheap  |
+| ecg.reisen | available | $3.99     | $20.99        | high           | low    | 3      | namesilo   |
 | con.reisen | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo   |
-| gma.reisen | available | $21.98    | $28.98        | high           | low    | 3      | namecheap  |
+| eec.reisen | available | $16.76    | $16.76        | high           | low    | 3      | spaceship  |
 | egg.reisen | premium   | $26       | $26           | high           | low    | 3      | namecheap  |
-| hpv.reisen | available | $16.99    | $16.99        | high           | low    | 3      | porkbun    |
-| emo.reisen | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo   |
-| mel.reisen | available | $3.99     | $20.99        | high           | low    | 3      | namesilo   |
+| erp.reisen | available | $21.98    | $28.98        | high           | medium | 3      | namecheap  |
 | fab.reisen | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com   |
+| gma.reisen | available | $21.98    | $28.98        | high           | low    | 3      | namecheap  |
+| gal.reisen | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,792 live domains                        |
+| 1,000-row public sample | 33,357 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REISEN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
